@@ -31,7 +31,11 @@
   },
   "devDependencies": {
     "@knappi/grunt-saucelabs": "^9.0.2",
+  <<<<<<< J-Vin-patch-1
     "aws-sdk": "^2.891.0",
+  =======
+    "aws-sdk": "^2.904.0",
+  >>>>>>> master
     "babel-loader": "^5.0.0",
     "babel-runtime": "^5.1.10",
     "benchmark": "~1.0",
@@ -70,7 +74,11 @@
     "semver": "^5.0.1",
     "sinon": "^7.5.0",
     "typescript": "^3.9.9",
+  <<<<<<< J-Vin-patch-1
     "uglify-js": "^3.13.4",
+  =======
+    "uglify-js": "^3.13.6",
+  >>>>>>> master
     "underscore": "^1.13.1",
     "webpack": "^1.12.6",
     "webpack-dev-server": "^3.11.2"
